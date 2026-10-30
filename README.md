@@ -1,7 +1,1 @@
-# Оно тебе надо
-
-Учебный проект второго спринта Яндекс Практикума: страница аукциона вещей, в которые никто не верил.
-
-Семантическая разметка HTML, локальные шрифты Raleway, CSS Grid и Flexbox. Ширина макета — 1100 px. Для просмотра откройте `index.html` в браузере.
-
-Репозиторий: [wapernato/ono-tebe-nado-ad](https://github.com/wapernato/ono-tebe-nado-ad)
+https://github.com/wapernato/ono-tebe-nado-ad
